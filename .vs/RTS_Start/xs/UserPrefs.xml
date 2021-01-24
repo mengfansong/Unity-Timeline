@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{AD0EB1B0-57E1-2CEB-69AF-7B5E1DEF7E06}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Playables/DialogueBehavior.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UIManager.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/Playables/DialogueTrack.cs" Line="7" Column="35" />
+      <File FileName="Assets/Scripts/Playables/DialogueClip.cs" Line="12" Column="9" />
+      <File FileName="Assets/Scripts/Playables/DialogueBehavior.cs" Line="27" Column="24" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="64" Column="48" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="19" Column="32" />
+      <File FileName="Assets/Scripts/TriggerArea.cs" Line="15" Column="75" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
